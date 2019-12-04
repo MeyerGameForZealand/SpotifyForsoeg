@@ -3,7 +3,7 @@ import Axios,{AxiosResponse, AxiosError} from "../../node_modules/axios/index";
 let buttonElement : HTMLButtonElement = <HTMLButtonElement>document.getElementById('LoginBtn')
 buttonElement.addEventListener('click', PerformLogin)
 
-let client_id = '5010d7b27a714aa3940a634ecd2c0b32'
+let client_id = '' // Get client id on dashboard
 let response_type = "token"
 let redirect_uri = "localhost:3000" // virker ikke med localhost - skift når det er lagt op til azure
 Axios.defaults.headers.get['Content-Type'] = 'application/x-www-form-urlencoded';
