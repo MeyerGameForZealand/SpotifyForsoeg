@@ -25,5 +25,11 @@
     "typescript": "^3.0.1",
     "webpack": "^4.16.5",
     "webpack-cli": "^3.1.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "require": "^2.4.20",
+    "typescript-require": "^0.2.10"
   }
 }
