@@ -1,0 +1,11 @@
+C:\Users\Roskilde Festival\source\repos\SpotifyWebApiTest\SpotifyWebApiTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Roskilde Festival\source\repos\SpotifyWebApiTest\SpotifyWebApiTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Roskilde Festival\source\repos\SpotifyWebApiTest\SpotifyWebApiTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Roskilde Festival\source\repos\SpotifyWebApiTest\SpotifyWebApiTest\bin\Debug\netcoreapp2.1\SpotifyWebApiTest.deps.json
+C:\Users\Roskilde Festival\source\repos\SpotifyWebApiTest\SpotifyWebApiTest\bin\Debug\netcoreapp2.1\SpotifyWebApiTest.runtimeconfig.json
+C:\Users\Roskilde Festival\source\repos\SpotifyWebApiTest\SpotifyWebApiTest\bin\Debug\netcoreapp2.1\SpotifyWebApiTest.runtimeconfig.dev.json
+C:\Users\Roskilde Festival\source\repos\SpotifyWebApiTest\SpotifyWebApiTest\bin\Debug\netcoreapp2.1\SpotifyWebApiTest.dll
+C:\Users\Roskilde Festival\source\repos\SpotifyWebApiTest\SpotifyWebApiTest\obj\Debug\netcoreapp2.1\SpotifyWebApiTest.csprojAssemblyReference.cache
+C:\Users\Roskilde Festival\source\repos\SpotifyWebApiTest\SpotifyWebApiTest\obj\Debug\netcoreapp2.1\SpotifyWebApiTest.csproj.CoreCompileInputs.cache
+C:\Users\Roskilde Festival\source\repos\SpotifyWebApiTest\SpotifyWebApiTest\obj\Debug\netcoreapp2.1\SpotifyWebApiTest.AssemblyInfoInputs.cache
+C:\Users\Roskilde Festival\source\repos\SpotifyWebApiTest\SpotifyWebApiTest\obj\Debug\netcoreapp2.1\SpotifyWebApiTest.AssemblyInfo.cs
